@@ -38,7 +38,7 @@ All dashboards are built in Tableau and allow users to filter by attributes, exp
 
 ### 1. California – Total Evapotranspiration by Supplier
 
-![ETo by supplier](Eto by supplier.png)
+![ETo by supplier](eto_by_supplier.png)
 
 This bar chart shows the **total reference evapotranspiration (ETo)** in inches for California water suppliers in 2023. Higher ETo values indicate greater atmospheric water demand, critical for managing irrigation and water supply in arid zones like Imperial and Coachella Valleys.
 
@@ -46,7 +46,7 @@ This bar chart shows the **total reference evapotranspiration (ETo)** in inches 
 
 ### 2. NYC – ENERGY STAR Score by Property Type
 
-![Average energy star score by property](Average energy star score by property.png)
+![NYC ENERGY STAR](avg_energy_star_by_property.png)
 
 This visual ranks **building types in NYC by average ENERGY STAR score**, a measure of energy efficiency. Courthouses, banks, and office buildings perform best, while worship facilities and single-family homes lag behind, suggesting areas for retrofitting and policy improvement.
 
@@ -54,7 +54,7 @@ This visual ranks **building types in NYC by average ENERGY STAR score**, a meas
 
 ### 3. Utah – Average Acreage by Irrigation Method
 
-![Average acres by irrigation method](Average acres by irrigation method.png)
+![Utah Irrigation](avg_acres_irrigation_method.png)
 
 This chart compares the **average acreage managed using different irrigation methods** in Utah. Sub-irrigation and sprinkler systems manage the largest areas, while drip irrigation is used on smaller plots, hinting at trade-offs between efficiency and scale.
 
