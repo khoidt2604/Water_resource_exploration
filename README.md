@@ -36,6 +36,37 @@ Water is a vital but limited resource. In both arid agricultural zones and dense
 
 All dashboards are built in Tableau and allow users to filter by attributes, explore spatial patterns, and view sustainability metrics.
 
+### 1. California – Total Evapotranspiration by Supplier
+
+![ETo by supplier](Eto by supplier.png)
+
+This bar chart shows the **total reference evapotranspiration (ETo)** in inches for California water suppliers in 2023. Higher ETo values indicate greater atmospheric water demand, critical for managing irrigation and water supply in arid zones like Imperial and Coachella Valleys.
+
+---
+
+### 2. NYC – ENERGY STAR Score by Property Type
+
+![Average energy star score by property](Average energy star score by property.png)
+
+This visual ranks **building types in NYC by average ENERGY STAR score**, a measure of energy efficiency. Courthouses, banks, and office buildings perform best, while worship facilities and single-family homes lag behind, suggesting areas for retrofitting and policy improvement.
+
+---
+
+### 3. Utah – Average Acreage by Irrigation Method
+
+![Average acres by irrigation method](Average acres by irrigation method.png)
+
+This chart compares the **average acreage managed using different irrigation methods** in Utah. Sub-irrigation and sprinkler systems manage the largest areas, while drip irrigation is used on smaller plots, hinting at trade-offs between efficiency and scale.
+
+---
+
+## 🔍 Insights
+
+- **California** needs precise water planning in areas with high ETo.
+- **Utah's** irrigation methods show variation in land use that can inform efficiency strategies.
+- **NYC** buildings demonstrate a wide range of energy performance, with potential gains in residential sectors.
+
+
 ---
 
 ## 📁 Files in This Repository
